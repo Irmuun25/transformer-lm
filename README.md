@@ -1,6 +1,3 @@
-### `README.md`
-
-```markdown
 # Transformer Language Model & Letter Counting Classifier
 
 A PyTorch implementation of a custom Transformer network applied to character-level neural language modeling and sequence classification tasks. 
